@@ -2,6 +2,9 @@
   "name": "open-event-webapp",
   "version": "2.0.0",
   "description": "Open Event Webapp",
+  "engines": {
+    "node": "6.10.2"
+  },
   "main": "index.js",
   "scripts": {
     "server.generator": "node src/app.js",
